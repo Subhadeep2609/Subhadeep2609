@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Subhadeep-Saha-
+# I'm Subhadeep Saha 
 
 # 💫 About Me:
 I did my B.tech in ECE from KGEC in 2024.I build scalable, user-focused full-stack web applications using the MERN stack, with a strong emphasis on clean architecture, performance, and real-world usability.<br>As a MERN Stack Developer, I work across the entire development lifecycle—designing responsive frontends with React & TypeScript, building secure and efficient APIs using Node.js and Express, and managing data with MongoDB. I enjoy turning ideas into reliable, production-ready applications and solving problems that improve both user experience and system performance.<br>I’m particularly focused on writing clean, maintainable code, following best practices, and continuously improving my skills by building projects, learning modern JavaScript patterns, and exploring scalable backend design.<br>I’m currently seeking a full-time Full Stack Developer role where I can contribute to impactful projects, collaborate with experienced teams, and grow as an engineer while delivering meaningful business value.
